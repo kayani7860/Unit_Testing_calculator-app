@@ -24,7 +24,7 @@ public class Calculator {
     }
 
     public static int multiply(int x, int y) {
-
+    //new code lindssdsd
         return x * y;
 
     }
