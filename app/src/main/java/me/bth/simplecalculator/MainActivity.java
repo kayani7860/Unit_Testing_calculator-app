@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         EditText firstNumEt = findViewById(R.id.first_num_et);
         EditText secondNumEt = findViewById(R.id.second_num_et);
         Spinner opsSpinner = findViewById(R.id.ops_spinner);
-        //calculating methods
+        //calculating methods for
         String firstNumString = firstNumEt.getText().toString().trim();
         String secondNumString = secondNumEt.getText().toString().trim();
 
